@@ -1,4 +1,4 @@
-# Problem-set-1-cs50x
+# Pset1-cs50x
 
 ## Description:
 
