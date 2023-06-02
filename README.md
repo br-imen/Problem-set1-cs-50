@@ -1,4 +1,4 @@
-# Pset1-cs50x
+# Pset1-CS50x
 
 ## Description:
 
